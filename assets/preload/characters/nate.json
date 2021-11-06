@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nate Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nate Sing UP"
+		},
+		{
+			"offsets": [
+				-70,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nate Sing Right"
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nate Sing Down"
+		},
+		{
+			"offsets": [
+				66,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nate Sing Left"
+		},
+		{
+			"offsets": [
+				-130,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Nate Sing down Beeg"
+		},
+		{
+			"offsets": [
+				-60,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Nate Sing up Beeg"
+		},
+		{
+			"offsets": [
+				5,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Nate Sing left Beeg"
+		},
+		{
+			"offsets": [
+				-114,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Nate Sing right Beeg"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "BeegieStuff/nate",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nate-and-beegie",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		20,
+		177
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

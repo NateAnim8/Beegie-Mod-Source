@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beegie_teehee.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Teehee BF0000" x="0" y="0" width="377" height="360" frameX="0" frameY="-10" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0001" x="0" y="0" width="377" height="360" frameX="0" frameY="-10" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0002" x="392" y="0" width="372" height="370" frameX="-1" frameY="0" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0003" x="392" y="0" width="372" height="370" frameX="-1" frameY="0" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0004" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0005" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0006" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0007" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0008" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0009" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0010" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0011" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0012" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0013" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0014" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0015" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0016" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0017" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0018" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+	<SubTexture name="Teehee BF0019" x="0" y="385" width="370" height="366" frameX="-3" frameY="-4" frameWidth="377" frameHeight="370"/>
+</TextureAtlas>

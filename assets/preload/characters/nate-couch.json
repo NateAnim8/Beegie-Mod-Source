@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				-76
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "NateCouchDance",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				-76
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "NateCouchDance",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				-72
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "Nate Couch Cheer",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				-72
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "Nate Couch Cheer",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "BeegieStuff/NateCouch",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nate-and-beegie",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		20,
+		177
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

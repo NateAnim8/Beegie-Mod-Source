@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Beegie Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Beegie Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Beegie Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Beegie Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Beegie Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				1
+			],
+			"anim": "teehee",
+			"fps": 24,
+			"name": "Beegie Teehee",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "BeegieStuff/beegie",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "beegie",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		80,
+		255
+	],
+	"camera_position": [
+		-60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

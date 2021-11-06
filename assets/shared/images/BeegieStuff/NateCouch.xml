@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NateCouch.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nate Couch Cheer0000" x="18" y="18" width="1065" height="604"/>
+	<SubTexture name="Nate Couch Cheer0001" x="18" y="18" width="1065" height="604"/>
+	<SubTexture name="Nate Couch Cheer0002" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0003" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0004" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0005" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0006" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0007" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0008" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0009" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0010" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0011" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0012" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0013" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0014" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0015" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0016" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0017" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0018" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0019" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0020" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0021" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0022" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0023" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0024" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0025" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0026" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0027" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0028" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0029" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0030" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0031" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0032" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0033" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0034" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0035" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0036" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0037" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0038" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0039" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0040" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0041" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0042" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0043" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0044" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0045" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0046" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0047" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0048" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0049" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0050" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0051" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0052" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0053" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0054" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0055" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0056" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0057" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0058" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0059" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0060" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0061" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0062" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0063" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0064" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0065" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0066" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0067" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0068" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0069" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0070" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0071" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0072" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0073" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0074" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0075" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0076" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0077" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0078" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="Nate Couch Cheer0079" x="1107" y="18" width="1065" height="599" frameX="0" frameY="-5" frameWidth="1065" frameHeight="604"/>
+	<SubTexture name="NateCouchDance0000" x="2196" y="18" width="1089" height="587" frameX="0" frameY="-13" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0001" x="2196" y="18" width="1089" height="587" frameX="0" frameY="-13" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0002" x="18" y="646" width="1077" height="585" frameX="-6" frameY="-15" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0003" x="18" y="646" width="1077" height="585" frameX="-6" frameY="-15" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0004" x="1119" y="646" width="1058" height="587" frameX="-15" frameY="-13" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0005" x="1119" y="646" width="1058" height="587" frameX="-15" frameY="-13" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0006" x="2201" y="646" width="1065" height="594" frameX="-12" frameY="-6" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0007" x="18" y="1264" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0008" x="1107" y="1264" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0009" x="2196" y="1264" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0010" x="18" y="1884" width="1065" height="597" frameX="-12" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0011" x="18" y="1884" width="1065" height="597" frameX="-12" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0012" x="18" y="1884" width="1065" height="597" frameX="-12" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0013" x="1107" y="1884" width="1065" height="600" frameX="-12" frameY="0" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0014" x="1107" y="1884" width="1065" height="600" frameX="-12" frameY="0" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0015" x="2196" y="1884" width="1089" height="597" frameX="0" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0016" x="2196" y="1884" width="1089" height="597" frameX="0" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0017" x="18" y="2508" width="1077" height="598" frameX="-6" frameY="-2" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0018" x="18" y="2508" width="1077" height="598" frameX="-6" frameY="-2" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0019" x="1119" y="2508" width="1058" height="597" frameX="-15" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0020" x="1119" y="2508" width="1058" height="597" frameX="-15" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0021" x="2201" y="2508" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0022" x="18" y="3130" width="1065" height="597" frameX="-12" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0023" x="1107" y="3130" width="1065" height="597" frameX="-12" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0024" x="2196" y="3130" width="1065" height="597" frameX="-12" frameY="-3" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0025" x="18" y="3751" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0026" x="1107" y="3751" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0027" x="1107" y="3751" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0028" x="1107" y="3751" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0029" x="1107" y="3751" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0030" x="1107" y="3751" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0031" x="1107" y="3751" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+	<SubTexture name="NateCouchDance0032" x="1107" y="3751" width="1065" height="596" frameX="-12" frameY="-4" frameWidth="1089" frameHeight="600"/>
+</TextureAtlas>
